@@ -59,6 +59,7 @@
     "enzyme": "^3.6.0",
     "enzyme-adapter-react-16": "^1.5.0",
     "eslint-config-prettier": "^3.4.0",
+    "mongodb-memory-server": "^3.0.0",
     "nodemon": "^1.18.7",
     "prettier": "^1.14.2",
     "supertest": "^3.3.0"
